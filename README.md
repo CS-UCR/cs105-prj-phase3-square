@@ -19,11 +19,13 @@ We decided to use Scrapy, a versatile web scraper useful with the framework for 
 #### Dataset 
 The first dataset we want to crawl using Scrapy is the "Climate Change: Earth Surfact Temperature Data" from the years 1750 - 2015. There is more than enough data in this dataset, and includes attributes such as date, average temperature, country, etc. There are multiple .csv files on this page, but we plan to use (at least for now) the Monthly Average Temperature Raw data file.
 
-The second dataset we want to use is the ___
-and we got this simply by going to the website ourselves and downloading the file and saving it into our project folder.
+The second dataset we want to use is the UN article mentioned above,
+and we got this simply by going to the website ourselves and will manually input the data for the file and save it into our project folder.
+
+The third dataset is a scholarly google books report where we will read and also extract data manually that we think is significant.
 
 #### How to run the code?
-1) Assuming one already has Scrapy installed (if not refer here [Scrapy Installation](http://doc.scrapy.org/en/latest/intro/install.html#intro-install) ), create your project with the command " scrapy startproject insertCleverName "
+1) Assuming one already has Scrapy installed (if not refer here [Scrapy Installation](http://doc.scrapy.org/en/latest/intro/install.html#intro-install)), create your project with the command " scrapy startproject insertCleverName "
 
 2) In the newly created directory, write your function code for your spider to crawl your dataset (refer to climatebot.py code) and save it under the spiders folder.
 
@@ -32,5 +34,5 @@ and we got this simply by going to the website ourselves and downloading the fil
 4) There you have it! You have crawled, scraped, and extracted data (depending on your specific spider's code). 
 
 5) To go even further into understanding what is happening, one can use the command "scrapy shell [insertUrlLinkHere]" and test out functions needed for scrapy to use.  If done correctly, it would look something like
-![Scrapy shell](cs105-prj-phase1-square/images/ScrapyShell.png)
+![Scrapy shell](images/ScrapyShell.png)
 
