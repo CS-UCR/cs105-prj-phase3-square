@@ -25,4 +25,4 @@ and we got this simply by going to the website ourselves and downloading the fil
 4) There you have it! You have crawled, scraped, and extracted data (depending on your spider code). 
 
 5) To go even further into understanding what is happening, one can use the command "scrapy shell insertUrlLinkHere" and test out functions needed for scrapy to use.  If done correctly, it would look something like
-![Scrapy shell](link)
+![Scrapy shell](ScrapyShell.png)
