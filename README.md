@@ -36,3 +36,15 @@ The third dataset is a scholarly google books report where we will read and also
 5) To go even further into understanding what is happening, one can use the command "scrapy shell [insertUrlLinkHere]" and test out functions needed for scrapy to use.  If done correctly, it would look something like
 ![Scrapy shell](images/ScrapyShell.png)
 
+
+
+## PHASE 2: EDA and Data Cleaning 
+
+#### The Basis for Comparison 
+We have combed through the scientific data and predictions we will be comparing our globally collected climate data with. These findings come from government supported reports containing reasonings for certain climate numbers, such as the 1.5 degreed centigrade that we have shown as a majorly significant number. 
+
+A csv file containing the figures we will use as a basis of comparison has been added, and we will use this with future EDA. 
+
+
+#### Kaddy's EDA
+Add stuff here
