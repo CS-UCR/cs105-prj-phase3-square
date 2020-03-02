@@ -46,5 +46,20 @@ We have combed through the scientific data and predictions we will be comparing 
 A csv file containing the figures we will use as a basis of comparison has been added, and we will use this with future EDA. 
 
 
-#### Kaddy's EDA
-Add stuff here
+#### Datasets used
+Currently we are working with three to four datasets. 
+The first dataset is a text file (refer to phase 1 section) which has yet to be analyzed due to errors with the text file when scraping but should be resolved soon.
+
+The second and third datasets (refer to phase 1) have been added as csv files to use for comparison.
+
+The fourth dataset is an extra set we're using to justify our claims. Included is the EDA of it.
+
+### EDA process 
+
+We decided to first clean the data. There were lots of missing values (NaN) since this dataset goes back to around the 1800's for temperature. Since most of the values were around the same, we decided to just fill the NaN values with the mean values.
+Next we analyzed the dataset by using a histogram, scatterplots, joint plots, parallel coordinates(tentative), and a boxplot.
+More information about the EDA in action can be seen on the "square.ipynb" file.
+
+#### How to run the code?
+1) Assuming that the scraped files and downloaded datasets are already there on top of the Jupyter notebook environment, one can begin to do the EDA by themselves.
+2) Once the code has been typed on the Jupyter notebook environment using Python 3 as the kernel, simply click "Restart Kernel and Run all Cells" after clicking on the Kernel tab in Jupyter notebooks.
