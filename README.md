@@ -57,8 +57,8 @@ The fourth dataset is an extra set we're using to justify our claims. Included i
 ### EDA process 
 
 We decided to first clean the data. There were lots of missing values (NaN) since this dataset goes back to around the 1800's for temperature. Since most of the values were around the same, we decided to just fill the NaN values with the mean values.
-Next we analyzed the dataset by using a histogram, scatterplots, joint plots, parallel coordinates(tentative), and a boxplot.
-More information about the EDA in action can be seen on the "square.ipynb" file.
+Next we analyzed the dataset by using a histogram, scatterplots, joint plots, and a boxplot. We did not include a parallel coordinates plane as it wasn't necessary for our data.
+More information about the EDA in action can be seen on the "square_proj_phase2.ipynb" file.
 
 #### How to run the code?
 1) Assuming that the scraped files and downloaded datasets are already there on top of the Jupyter notebook environment, one can begin to do the EDA by themselves.
