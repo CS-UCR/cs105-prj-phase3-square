@@ -1,4 +1,4 @@
-# cs105-prj-phase1-square
+# cs105-prj-phase2-square
 
 ## Objective
 This is our project on climate change trends. We want to analyze and see if there is a correlation between general weather tends over various areas, and what current meterologists and global warming experts are saying. 
