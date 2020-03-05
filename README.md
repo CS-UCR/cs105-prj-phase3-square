@@ -76,4 +76,6 @@ We decided to just use 1 datset for this. Our fourth one from phase 2 as it is t
 
 1) We hypothesize that global warming temperatures increase as the years also increase, and thus have a correlation.
 
+2) We also hypothesize that countries with highly active industrial sectors tend to warm up faster or contribute more to total global warming that their more rural counterparts. 
+
 
