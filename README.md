@@ -69,13 +69,21 @@ More information about the EDA in action can be seen on the "square_proj_phase2.
 
 ### Datasets used
 
-We decided to just use 1 datset for this. Our fourth one from phase 2 as it is the only one with EDA done on it. We plan 
+We decided to just use 1 datset for this. Our fourth one from phase 2 as it is the only one with EDA done on it. We plan on using the dataset to explore two hypothesis in continuing our data analysis. 
 
+Code should be run in the same way as in Phase 2. Reiterated here:
+1) Assuming that the scraped files and downloaded datasets are already there on top of the Jupyter notebook environment, one can begin to do the EDA by themselves.
+2) Once the code has been typed on the Jupyter notebook environment using Python 3 as the kernel, simply click "Restart Kernel and Run all Cells" after clicking on the Kernel tab in Jupyter notebooks.
 
 ### Hypotheses
 
 1) We hypothesize that global warming temperatures increase as the years also increase, and thus have a correlation.
 
 2) We also hypothesize that countries with highly active industrial sectors tend to warm up faster or contribute more to total global warming that their more rural counterparts. 
+
+
+
+## Final Thoughts
+As we can see, there is an obvious updwards trend in overall temperatures for countries around the world. Our analysis showed that just with 
 
 
