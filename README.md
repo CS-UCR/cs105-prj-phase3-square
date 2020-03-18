@@ -75,15 +75,17 @@ Code should be run in the same way as in Phase 2. Reiterated here:
 1) Assuming that the scraped files and downloaded datasets are already there on top of the Jupyter notebook environment, one can begin to do the EDA by themselves.
 2) Once the code has been typed on the Jupyter notebook environment using Python 3 as the kernel, simply click "Restart Kernel and Run all Cells" after clicking on the Kernel tab in Jupyter notebooks.
 
-### Hypotheses
+### Hypothesis
 
-1) We hypothesize that global warming temperatures increase as the years also increase, and thus have a correlation.
-
-2) We also hypothesize that countries with highly active industrial sectors tend to warm up faster or contribute more to total global warming that their more rural counterparts. 
-
+1) We hypothesize that as global warming temperatures increase, the years also increase, and thus have a correlation.
 
 
 ## Final Thoughts
-As we can see, there is an obvious updwards trend in overall temperatures for countries around the world. Our analysis showed that just with 
+As we can see, there is an obvious updwards trend in overall temperatures for countries around the world. Our analysis showed that just with the first scatter graph under the hypothesis section comparing the year with the average temperature. There is clearly a more concentrated area started around 50 degrees at the year 1850 and working its way upwards towards the year 2000. 
+Here is a picture for reference. 
+![Scatter plot](images/scatterplot.png)
 
+On top of this, we can also conclude that the average temperature has gone up from what it was in the 1750s. From this graph, one can see that the temperature has risen 10-15 degrees.
+![scatter two](images/scatterplot2.png)
 
+Thus, from the conclusions above, our hypothesis has been proved.
